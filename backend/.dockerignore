@@ -1,0 +1,13 @@
+# Dependency folders
+node_modules
+
+# Build output folders
+dist
+
+# Git metadata
+.git
+.gitignore
+
+# Local environment files
+.env
+.env.*
