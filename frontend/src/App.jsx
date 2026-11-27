@@ -48,7 +48,7 @@ export default function App() {
       <header style={{ marginBottom: '2rem', borderBottom: '1px solid #334155', paddingBottom: '1rem' }}>
         <h1 style={{ margin: 0, fontSize: '2rem', color: '#38bdf8' }}>TravelVerse</h1>
         <p style={{ margin: '0.5rem 0 0', color: '#94a3b8' }}>
-          Cloud-Native 3-Tier Demo — Running on Kubernetes (Kind) + ArgoCD GitOps
+          Cloud-Native 3-Tier Demo — Running on Kubernetes (Kind)
         </p>
       </header>
 
